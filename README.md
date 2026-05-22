@@ -41,7 +41,13 @@
 
 ### 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Eidisea&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF" alt="Eidisea's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eidisea&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="Eidisea's Top Languages" />
-</p>
+<div align="center">
+  <a href="https://github.com/Eidisea">
+    <img src="https://github-readme-stats.vercel.app/api?username=Eidisea&show_icons=true&theme=radical&hide_border=true" alt="Eidisea's GitHub Stats" />
+  </a>
+  <br />
+  <br />
+  <a href="https://github.com/Eidisea">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eidisea&layout=compact&theme=radical&hide_border=true" alt="Eidisea's Top Languages" />
+  </a>
+</div>
