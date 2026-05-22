@@ -42,8 +42,12 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-  [![Eidisea's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Eidisea&show_icons=true&theme=radical&hide_border=true&v=1)](https://github.com/Eidisea)
+  <a href="https://github.com/Eidisea">
+    <img src="https://github-readme-stats.vercel.app/api?username=Eidisea&show_icons=true&theme=radical&hide_border=true&v=2" alt="Eidisea's GitHub Stats" />
+  </a>
   <br />
   <br />
-  [![Eidisea's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Eidisea&layout=compact&theme=radical&hide_border=true&v=1)](https://github.com/Eidisea)
+  <a href="https://github.com/Eidisea">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eidisea&layout=compact&theme=radical&hide_border=true&v=2" alt="Eidisea's Top Languages" />
+  </a>
 </div>
