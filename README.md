@@ -1,4 +1,4 @@
-<h1 align="center">hi there, i'm a alexandra</h1>
+<h1 align="center">hi there, i'm alexandra</h1>
 <h3 align="center">A passionate student & software engineer crafting high-performance, accessible web applications.</h3>
 
 <p align="center">
